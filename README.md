@@ -12,7 +12,7 @@ An AI-powered Connect 4 game where you can play against an intelligent opponent 
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/88fc1c08-71b0-482c-b6af-8e362997ab61
 
 ## How It Works
 
